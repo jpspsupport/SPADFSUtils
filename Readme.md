@@ -1,6 +1,6 @@
 # SPADFSUtils
 
-This is a client side code sample to get authenticated to SharePoint OnPremises with ADFS as Trusted Identity Issuer.
+This is a client side code sample to get authenticated to SharePoint OnPremises with ADFS as Trusted Identity Token Issuer.
 
 This sample is not expected to be used that frequently.
 Generally, SharePoint On-Premises is supposed to hold Windows Authentication endpoint as well for internal access use, such as crawling. 
